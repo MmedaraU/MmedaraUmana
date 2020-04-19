@@ -23,4 +23,3 @@ console.log(divide(200))
 }
 divide(200)
 
- if(i%2==0)
