@@ -1,7 +1,7 @@
-function divide(old) {
+function divide(number) {
     let info = [];
     
-    for (var i=1; i<=200; i++){
+    for (var i=1; i<=number; i++){
         if (i % 2 == 0 && i % 3 == 0 && i % 5 == 0){
        return info.push("yu-gi-oh")
         }else if (i % 2 == 0 && i % 3 == 0){
