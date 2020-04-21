@@ -19,8 +19,8 @@ function divide(number) {
 }
 return info;
         }
-console.log(info);
-console.log(divide(200));
+console.log(info)
+console.log(divide(200))
 
 divide(100);
 divide(150);
