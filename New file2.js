@@ -16,12 +16,12 @@ function divide(number) {
        return info.push("oh")
 }else{
     return info.push(i)
-}
+};
 return info;
-        }
+        
 console.log(info)
 console.log(divide(200))
-
+}
 divide(100);
 divide(150);
     
